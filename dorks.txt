@@ -1,0 +1,14 @@
+Responsible disclosure reward r=H:UK
+
+site:*.*.nl intext:security report reward
+
+inurl: responsible disclosure reward
+
+inurl: responsible disclosure bounty
+
+inurl: responsible disclosure swag
+
+site:*.*.nl intext:responsible disclosure reward
+
+responsible disclosure reward r=h:eu
+
